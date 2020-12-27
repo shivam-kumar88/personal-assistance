@@ -5,4 +5,5 @@ your own personal assistance using python
  so that you can know hoe it work
  i have used python here because it have librarys wich will make thinga lot easier
  i will upgarde it in future
- -------------------------------------------thanku for looking my code--------------------------------------------
+ 
+-----------------------------thanku for looking my code------------------------------
